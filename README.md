@@ -61,7 +61,7 @@ Output: True
 **Example 1:**
 
 ```Python
-Input: a=-3
+Input: b=-3
 Output: False
 
 ```
@@ -69,7 +69,7 @@ Output: False
 **Example 2:**
 
 ```Python
-Input: a=8
+Input: b=8
 Output: True
 
 ```
